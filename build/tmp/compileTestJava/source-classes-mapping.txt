@@ -1,0 +1,6 @@
+WyreCombinationsTest2.java
+ WyreCombinationsTest2
+WyreCombinationsTest.java
+ WyreCombinationsTest
+WyreCombinationsTest3.java
+ WyreCombinationsTest3

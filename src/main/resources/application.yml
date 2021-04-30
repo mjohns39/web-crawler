@@ -1,0 +1,4 @@
+buildit:
+  maxDepthOfCrawling: 2
+  maxPagesToFetch: 10
+  numberOfCrawlers: 2

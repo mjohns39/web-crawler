@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "buildit",
+      "type": "com.buildit.config.properties.BuilditCrawlerConfigProperties",
+      "sourceType": "com.buildit.config.properties.BuilditCrawlerConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "buildit.crawl-info-location",
+      "type": "java.lang.String",
+      "sourceType": "com.buildit.config.properties.BuilditCrawlerConfigProperties",
+      "defaultValue": "src\/test\/resources\/crawler4j"
+    },
+    {
+      "name": "buildit.max-depth-of-crawling",
+      "type": "java.lang.Integer",
+      "sourceType": "com.buildit.config.properties.BuilditCrawlerConfigProperties",
+      "defaultValue": 2
+    },
+    {
+      "name": "buildit.max-pages-to-fetch",
+      "type": "java.lang.Integer",
+      "sourceType": "com.buildit.config.properties.BuilditCrawlerConfigProperties",
+      "defaultValue": 10
+    },
+    {
+      "name": "buildit.number-of-crawlers",
+      "type": "java.lang.Integer",
+      "sourceType": "com.buildit.config.properties.BuilditCrawlerConfigProperties",
+      "defaultValue": 2
+    }
+  ],
+  "hints": []
+}

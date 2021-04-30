@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  buildit-web-crawler:
+    image: mljohns89/buildit-web-crawler
+    ports:
+      - 8080:8080
